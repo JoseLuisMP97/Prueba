@@ -1,0 +1,13 @@
+estilo.css
+body{
+	background-color: #555;
+	color: #fff;
+	font-variant: Verdana, Helvetica, sans-serif;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	float: left;
+	margin: 0.5em;
+}

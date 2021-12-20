@@ -1,1 +1,6 @@
 estilo.css
+body{
+	background-color: green;
+	color: white;
+	font-variant: Verdana, Helvetica, sans-serif;
+}
